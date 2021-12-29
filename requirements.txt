@@ -1,0 +1,7 @@
+opencv
+tkinter
+pillow
+matplotlib
+numpy
+sys
+easygui
